@@ -1,0 +1,3 @@
+<title>
+    {{ $product->title }}
+</title>
